@@ -145,8 +145,7 @@ The dashboard provides an interactive overview of workforce performance through:
 
 ### HR Workforce Analytics Dashboard
 
-![HR Workforce Analytics Dashboard](HR Workforce Analytics Dashboard.png
-)
+![HR Workforce Analytics Dashboard](HR Workforce Analytics Dashboard.png)
 
 ## Author
 
