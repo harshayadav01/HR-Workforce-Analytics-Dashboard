@@ -141,6 +141,11 @@ The dashboard provides an interactive overview of workforce performance through:
 - Connect the dashboard to live data sources for real-time reporting.
 
 ---
+## Dashboard Preview
+
+### HR Workforce Analytics Dashboard
+
+![HR Workforce Analytics Dashboard](HR Workforce Analytics Dashboard.png)
 
 ## Author
 
